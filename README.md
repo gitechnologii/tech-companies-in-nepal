@@ -119,7 +119,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 - [F1Soft International](https://f1soft.com/) | Pulchowk, Lalitpur | FinTech company providing services to more than 90% of the banks and financial institutions in the country
 
 ## G - I
-
+- [GI Technology Pvt. Ltd.](https://www.gitechnologi.com/) | Lainchaur, Kathmandu | Our mission is to provide (Application Software, Customized Software Development, Website Design and Development, Web & Mobile Application development and Hardware Sales & Networking Solutions) maximum profits to our clients in the context of price and quality
 - [Grepsr](https://www.grepsr.com/) | Naxal, Kathmandu | The simplest web scraping platform
 - [GrowByData](https://growbydata.com/) | Kupondole, Lalitpur | Ecommerce data services for online retailers
 - [Growcept](https://growcept.com/) | Pulchowk, Lalitpur | Growcept is a tech products platform
